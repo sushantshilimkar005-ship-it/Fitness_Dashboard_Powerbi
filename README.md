@@ -42,4 +42,3 @@ The dashboard dynamically surfaces five foundational baseline metrics critical f
 2. Open `My_Fitness_Dashboard.pbix` in Power BI Desktop.
 3. Explore interactive slicers and data matrices!
 
-### 
