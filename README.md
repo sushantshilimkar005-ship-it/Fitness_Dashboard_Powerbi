@@ -43,4 +43,4 @@ The dashboard dynamically surfaces five foundational baseline metrics critical f
 3. Explore interactive slicers and data matrices!
 
 ### Dashboard Screenshot
-![Dashboard_Screenshot](Dashboard_Screesnhot.png)
+![Dashboard_Screenshot](Dashboard_Screenshot.png)
