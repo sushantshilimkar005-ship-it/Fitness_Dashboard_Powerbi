@@ -1,6 +1,6 @@
 ### My Fitness Dashboard 🏋️‍♂️📊
 
-### 📌 Project Overview
+### 📌 Project Overview :
 
 Purpose: A dynamic, dark-themed Power BI dashboard engineered to manage, track, and optimize gym business operations.
 
@@ -8,11 +8,11 @@ Scope: Consolidates gym data across finances, trainer resources, and membership 
 
 Target Audience: Gym owners, operations managers, and stakeholders looking for data-driven insights into business growth and member retention.
 
-### 📊 Dashboard Preview
+### 📊 Dashboard Preview :
 
 ![Dashboard_Screenshot](Dashboard_Screenshot.png)
 
-### 🎯 Key Objectives
+### 🎯 Key Objectives :
 
 Streamline Operations: Provide a centralized view of operations to quickly identify member trends and financial leaks.
 
@@ -20,7 +20,7 @@ Enhance Retention: Monitor contract expirations to proactively target members ne
 
 Track Financial Health: Evaluate seasonal variations in profit margins to better allocate future marketing budgets.
 
-### 📈 Key Performance Indicators (KPIs)
+### 📈 Key Performance Indicators (KPIs) :
 
 Total Members: 100 registered clients currently managed in the system.
 
@@ -32,7 +32,7 @@ Total Expenses: 1.2M utilized for operational, facility, and staffing costs.
 
 Net Profit: A strong 3M bottom line, reflecting efficient operational margins.
 
-### 📌 Dashboard Features
+### 📌 Dashboard Features :
 
 Global Interactive Filters: Slicers for Member Name, Status, JoinDate, and EndDate that instantly update all visuals.
 
@@ -42,13 +42,13 @@ Granular Client Ledger: A complete tracking table showcasing individual contract
 
 Monthly Intake Analytics: Bar graphs that track the volume of newly registered members on a month-to-month timeline.
 
-### 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used :
 
 Power BI Desktop: The core platform utilized for data modeling, processing, and visual engineering.
 
 DAX (Data Analysis Expressions): Deployed to build complex calculated columns for membership timeframes and custom aggregates.
 
-### 💡 Business Benefits
+### 💡 Business Benefits :
 
 Data-Driven Retention: Allows management to identify expired or expiring memberships instantly, enabling targeted renewal campaigns to reduce churn.
 
@@ -59,7 +59,7 @@ Strategic Financial Planning: Clear visibility into monthly revenue and expense 
 Improved Tier Marketing: Identifies which membership packages (Platinum, Gold, Silver) are underperforming, helping management redesign packages or run promotions for specific tiers.
 
 
-### 📊 Insights Generated
+### 📊 Insights Generated :
 
 High-Value Tiers Are Vulnerable: The Silver and Gold tiers currently have more expired memberships than active ones, highlighting a critical renewal issue.
 
@@ -67,10 +67,10 @@ November Growth Spike: Member onboarding reaches its peak in November (14 member
 
 Q4 Revenue Surge: Financial revenue tracks significantly higher toward the end of the year, peaking sharply in November/December.
 
-### 👨‍💻 Author
+### 👨‍💻 Author : sushant shilimkar
 
-Name: Sushant Shilimkar
+📧 Email:sushantshilimkar005@gmail.com
 
-Connect: Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-shilimkar-24b7a2351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Portfolio: Your Portfolio Link
+💻 GitHub: https://github.com/sushantshilimkar005-ship-it
